@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <questionText>p1</questionText>
+    <answers>
+      <string>sd</string>
+      <string>sd</string>
+      <string>fff</string>
+      <string>sd</string>
+    </answers>
+    <properAnswers>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </properAnswers>
+  </Question>
+  <Question>
+    <questionText>pytaie 2</questionText>
+    <answers>
+      <string>sd</string>
+      <string>dddd</string>
+      <string>314</string>
+      <string>afs</string>
+    </answers>
+    <properAnswers>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </properAnswers>
+  </Question>
+</ArrayOfQuestion>

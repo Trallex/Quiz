@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <questionText>sdafdsasdf</questionText>
+    <answers>
+      <string>sdsad</string>
+      <string>ssd</string>
+      <string>ff</string>
+      <string>fssfs</string>
+    </answers>
+    <properAnswers>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </properAnswers>
+  </Question>
+</ArrayOfQuestion>
