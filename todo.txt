@@ -1,0 +1,6 @@
+-prawidlowa nazwa pliku do zapisu  (na error) :>
+-kontrola niepustych pytan i poprawnej odpowiedzi  (poprawic na errory) :>
+-wczytywanie obiektu z listy  ‹------
+-porzadkowanie numerow LISY!!! ^ bedzie dzialac :>
+- usuwanie obiektów? :>
+-czyszczenie listy pytan po dodatniu :> 
