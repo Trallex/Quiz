@@ -49,10 +49,11 @@ namespace Quiz
         }
         private void Add()
         {
-            listBoxQuestions.Items.Add((listBoxQuestions.Items.Count + 1).ToString());
+            
             if (ProperQuestion())
             {
                 ThisQuiz.Record(CreateObject());
+                listBoxQuestions.Items.Add((listBoxQuestions.Items.Count + 1).ToString());
                 Clear();
             }            
        }

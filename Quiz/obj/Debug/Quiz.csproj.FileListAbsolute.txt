@@ -40,3 +40,14 @@ C:\Users\jkuch_000\Desktop\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cach
 C:\Users\jkuch_000\Desktop\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
 C:\Users\jkuch_000\Desktop\Quiz\Quiz\obj\Debug\Quiz.exe
 C:\Users\jkuch_000\Desktop\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\bin\Debug\Quiz.exe.config
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\bin\Debug\Quiz.exe
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\bin\Debug\Quiz.pdb
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.Answer.resources
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.View.resources
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.exe
+D:\Studies\object programmin\Quiz-master\Quiz-master\Quiz\obj\Debug\Quiz.pdb
